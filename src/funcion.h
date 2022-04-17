@@ -14,3 +14,4 @@
 
 void opcion3(float aerolinea, float latam, int opcion4, float kms);
 
+float validar(float num, int scan);
